@@ -10,6 +10,9 @@ The data for this project was created from the merging of four data sources.
 
 ## Reading the UI
 **Section 1** General Fight Info
+
+![alt text](https://github.com/JBradbeer/econ323_ufc_fight_summary/blob/main/read_me_1.png?raw=true)
+
 1. The fighter's name
 2. The fighter's ranking, which can be designated by:
     - "Champion", The top ranked fighter in the division, and current belt holder
@@ -29,8 +32,7 @@ The data for this project was created from the merging of four data sources.
 2. The fighter's name, colored red or blue by the corner they were in
 3. The fighter's record *in the UFC*
 4. The winner of the fight
-    - The arrow points at and is colored by the corner of the winner
-    - Black arrows pointing in both directions denote the fight was a draw
+    - The arrow points at, and is colored by the corner of the winner
 5. The ending time of the fight (ex. 4:58 denotes that the fight was 4 minutes and 58 seconds into the round when the fight ended)
 6. The ending round of the fight
 7. Finish type of the fight, denoted by:
