@@ -43,11 +43,20 @@ The data for this project was created from the merging of four data sources.
     - "TKO/KO": The loser was either knocked-out (KO) or the referee stopped the fight due to a fighter taking too much damage or not defending themselves intelligenty (TKO)
 8. The method of attack that caused the knockout or submission (note: this section only appears in case of KO, TKO, or SUB)
 
+**Section 4** Fighter Info
+![alt text](https://github.com/JBradbeer/econ323_ufc_fight_summary/blob/main/Readme_images/read_me_4.png?raw=true)
+1. The fighter's record over their last five fights.
+    - Green denotes win
+    - Red denotes loss
+    - Gold denotes fight (above the line is win, below is loss)
+2. Total strikes thrown and landed
+    - Grey denotes the amount thrown
+    - Colored denotes the amount landed
+3. The number of knockdowns scored
+
 
 **Section 4** Striking Data for the Fight
-
 ![alt text](https://github.com/JBradbeer/econ323_ufc_fight_summary/blob/main/Readme_images/read_me_4.png?raw=true)
-
 1. Significant strikes thrown and landed
     - Grey denotes the amount thrown
     - Colored denotes the amount landed
