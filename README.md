@@ -20,6 +20,8 @@ The data for this project was created from the merging of four data sources.
 5. Number of rounds in the fight OR if the fight is a title fight (note: all title fights MUST be 5 rounds)
    
 **Section 2** General Fighter Fight Info 
+![alt text](https://github.com/JBradbeer/econ323_ufc_fight_summary/blob/main/read_me_2.png?raw=true)
+
 1. The fighter's betting odds using the +/- system
     - \"+" denotes the underdog
     - \"-" denotes the favourite
