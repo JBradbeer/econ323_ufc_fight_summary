@@ -43,10 +43,10 @@ In order to use the fight summary dashboard, run the file and scroll down to the
 6. The ending round of the fight
 7. Finish type of the fight, denoted by:
     - "U-DEC": Unanimous decision, all three judges had the fighter winning the fight
-    - "S-DEC": Split decision, two judges had the winner winning the fight while the third called had the loser winning
+    - "S-DEC": Split decision, two judges had the winner winning the fight while the third had the loser winning
     - "M-DEC": Majority decision, two judges had the winner winning the fight while the third called it a draw
     - "SUB":   The loser submitted to the winner mid-fight
-    - "TKO/KO": The loser was either knocked-out (KO) or the referee stopped the fight due to a fighter taking too much damage or not defending themselves intelligenty (TKO)
+    - "TKO/KO": The loser was either knocked-out (KO) or the referee stopped the fight due to a fighter taking too much damage or not defending themself intelligenty (TKO)
 8. The method of attack that caused the knockout or submission (note: this section only appears in case of KO, TKO, or SUB)
 
 
@@ -56,7 +56,8 @@ In order to use the fight summary dashboard, run the file and scroll down to the
     - Green denotes win
     - Red denotes loss
     - Gold denotes fight (above the line is win, below is loss)
-    (Note: due to the fact that the original dataset had missing fight data, the trailing five fights data only represents the five trailing fights with fight data)
+    (Note: Due to the fact that the original dataset had missing fight data, the trailing five fights data only represents the five trailing fights with fight data)
+    (Note: If the fighters have less than 5 fights prior, all prior fights are showed)
 2. General fighter stats
 
 
