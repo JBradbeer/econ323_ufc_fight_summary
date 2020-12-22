@@ -51,7 +51,7 @@ In order to use the fight summary dashboard, run the file and scroll down to the
 
 
 **Section 3** Fighter Info
-![alt text](https://github.com/JBradbeer/econ323_ufc_fight_summary/blob/main/Readme_images/read_me_4.png?raw=true)
+![alt text](https://github.com/JBradbeer/econ323_ufc_fight_summary/blob/main/Readme_images/read_me_3.png?raw=true)
 1. The fighter's record over their last five fights.
     - Green denotes win
     - Red denotes loss
