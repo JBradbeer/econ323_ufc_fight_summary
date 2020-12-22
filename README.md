@@ -1,9 +1,9 @@
 # ECON 323 Final Project
-Welcome to my final project for ECON 323. My project is a UFC Fight Summary dashboard that presents fight and fighter statistics for UFC fights between 2010 and 2020. However, due to the fact that the UFC does not provide  statistics for certain fights for a variety of reasons including if it was the fighters first fight in the UFC, only 2700 fights are searchable.
+Welcome to my final project for ECON 323. My project is a UFC fight summary dashboard that presents fight and fighter statistics for UFC fights between 2010 and 2020. However, due to the fact that the UFC does not provide  statistics for certain fights for a variety of reasons including if it was the fighters first fight in the UFC, only 2700 fights are searchable.
 
 
 ## Data Sources
-The data for this project was found on Kaggle, here[www.youtube.com].
+The data for this project was found on Kaggle, here [www.youtube.com].
 
 ## How to Use the Fight Summary
 ![alt text](https://github.com/JBradbeer/econ323_ufc_fight_summary/blob/main/Readme_images/read_me_0.png?raw=true)
