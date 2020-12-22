@@ -44,6 +44,9 @@ The data for this project was created from the merging of four data sources.
 8. The method of attack that caused the knockout or submission (note: this section only appears in case of KO, TKO, or SUB)
 
 **Section 4** Striking Data for the Fight
+
+![alt text](https://github.com/JBradbeer/econ323_ufc_fight_summary/blob/main/Readme_images/read_me_4.png?raw=true)
+
 1. Significant strikes thrown and landed
     - Grey denotes the amount thrown
     - Colored denotes the amount landed
@@ -53,8 +56,9 @@ The data for this project was created from the merging of four data sources.
 3. The number of knockdowns scored
 
 **Section 5** Grappling Data for the Fight
-1. Pie chart representing the fighters takedown percentage
-2. Total strikes thrown and landed
-    - Grey denotes the amount thrown
-    - Colored denotes the amount landed
-3. The number of knockdowns scored
+
+![alt text](https://github.com/JBradbeer/econ323_ufc_fight_summary/blob/main/Readme_images/read_me_5.png?raw=true)
+
+1. Pie chart representing the fighters takedown accuracy
+2. Total takedowns attempted
+3. Total takedowns landed
