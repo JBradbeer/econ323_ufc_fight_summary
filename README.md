@@ -9,10 +9,34 @@ The data for this project was created from the merging of four data sources.
 ## How to Use the Fight Summary
 
 ## Reading the UI
-
-This area shows general fight details.
+**Section 1**
+This section shows general fight details.
 1. The fighter's name
-2. The fighter's ranking
-  - Champion (designated by "Champion"), Ranked 
+2. The fighter's ranking, which can be designated by:
+    - "Champion", The top ranked fighter in the division, and current belt holder
+    - "1-15", The nth ranked challenger in the division (note: nth ranked challenger is the n+1 spot in the division including champion)
+    - "NR", The fighter is currently not ranked in the division
+3. Fight location & date
+4. Fight Weightclass
+5. Number of rounds in the fight OR if the fight is a title fight (note: all title fights MUST be 5 rounds)
+   
+**Section 2**
+This section shows general fight details specific to .
+1. The fighter's betting odds using the +/- system
+    - \"+" denotes the underdog
+    - \"-" denotes the favourite
+2. The fighter's name, colored red or blue by the corner they were in
+3. The fighter's record *in the UFC*
+4. The winner of the fight
+    - The arrow points at and is colored by the corner of the winner
+    - Black arrows pointing in both directions denote the fight was a draw
+5. The ending time of the fight (ex. 4:58 denotes that the fight was 4 minutes and 58 seconds into the round when the fight ended)
+6. The ending round of the fight
+7. Finish type of the fight, denoted by:
+    - "U-DEC": Unanimous decision, all three judges had the fighter winning the fight
+    - "S-DEC": Split decision, two judges had the winner winning the fight while the third called had the loser winning
+    - "M-DEC": Majority decision, two judges had the winner winning the fight while the third called it a draw
+    - "SUB":   The loser submitted to the winner mid-fight
+    - "TKO/KO": The loser was either knocked-out (KO) or the referee stopped the fight due to a fighter taking too much damage or not defending themselves intelligenty (TKO)
 
 
