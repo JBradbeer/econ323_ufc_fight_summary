@@ -3,7 +3,7 @@ Welcome to my final project for ECON 323. My project is a UFC Fight Summary dash
 
 
 ## Data Sources
-The data for this project was created from the merging of four data sources.
+The data for this project was found on Kaggle, here.
 
 ## How to Use the Fight Summary
 
@@ -43,16 +43,15 @@ The data for this project was created from the merging of four data sources.
     - "TKO/KO": The loser was either knocked-out (KO) or the referee stopped the fight due to a fighter taking too much damage or not defending themselves intelligenty (TKO)
 8. The method of attack that caused the knockout or submission (note: this section only appears in case of KO, TKO, or SUB)
 
-**Section 4** Fighter Info
+
+**Section 3** Fighter Info
 ![alt text](https://github.com/JBradbeer/econ323_ufc_fight_summary/blob/main/Readme_images/read_me_4.png?raw=true)
 1. The fighter's record over their last five fights.
     - Green denotes win
     - Red denotes loss
     - Gold denotes fight (above the line is win, below is loss)
-2. Total strikes thrown and landed
-    - Grey denotes the amount thrown
-    - Colored denotes the amount landed
-3. The number of knockdowns scored
+    (Note: due to the fact that the original dataset had missing fight data, the trailing five fights data only represents the five trailing fights with fight data)
+2. General fighter stats
 
 
 **Section 4** Striking Data for the Fight
@@ -67,9 +66,7 @@ The data for this project was created from the merging of four data sources.
 
 
 **Section 5** Grappling Data for the Fight
-
 ![alt text](https://github.com/JBradbeer/econ323_ufc_fight_summary/blob/main/Readme_images/read_me_5.png?raw=true)
-
 1. Pie chart representing the fighters takedown accuracy (takedowns landed / takedowns attempted)
 2. Number of takedowns landed
 3. Number of takedowns attempted
