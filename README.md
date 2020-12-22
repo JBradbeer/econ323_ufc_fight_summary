@@ -9,8 +9,7 @@ The data for this project was created from the merging of four data sources.
 ## How to Use the Fight Summary
 
 ## Reading the UI
-**Section 1**/n
-This section shows general fight details.
+**Section 1** General Fight Info
 1. The fighter's name
 2. The fighter's ranking, which can be designated by:
     - "Champion", The top ranked fighter in the division, and current belt holder
@@ -20,8 +19,7 @@ This section shows general fight details.
 4. Fight Weightclass
 5. Number of rounds in the fight OR if the fight is a title fight (note: all title fights MUST be 5 rounds)
    
-**Section 2**/n
-This section shows general fight details specific to .
+**Section 2** General Fighter Fight Info 
 1. The fighter's betting odds using the +/- system
     - \"+" denotes the underdog
     - \"-" denotes the favourite
@@ -40,8 +38,7 @@ This section shows general fight details specific to .
     - "TKO/KO": The loser was either knocked-out (KO) or the referee stopped the fight due to a fighter taking too much damage or not defending themselves intelligenty (TKO)
 8. The method of attack that caused the knockout or submission (note: this section only appears in case of KO, TKO, or SUB)
 
-**Section 4**n
-This section summarizes the striking information for the fight.
+**Section 4** Striking Data for the Fight
 1. Significant strikes thrown and landed
     - Grey denotes the amount thrown
     - Colored denotes the amount landed
@@ -50,11 +47,8 @@ This section summarizes the striking information for the fight.
     - Colored denotes the amount landed
 3. The number of knockdowns scored
 
-**Section 4**/n
-This section summarizes the striking information for the fight.
-1. Significant strikes thrown and landed
-    - Grey denotes the amount thrown
-    - Colored denotes the amount landed
+**Section 5** Grappling Data for the Fight
+1. Pie chart representing the fighters takedown percentage
 2. Total strikes thrown and landed
     - Grey denotes the amount thrown
     - Colored denotes the amount landed
