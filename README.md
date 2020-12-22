@@ -26,7 +26,7 @@ In order to use the fight summary dashboard, run the file and scroll down to the
     - "1-15", The nth ranked challenger in the division (note: nth ranked challenger is the n+1 spot in the division including champion)
     - "NR", The fighter is currently not ranked in the division
 3. Fight location & date
-4. Fight Weightclass
+4. Fight weightclass
 5. Number of rounds in the fight OR if the fight is a title fight (note: all title fights MUST be 5 rounds)
    
    
