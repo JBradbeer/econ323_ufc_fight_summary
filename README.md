@@ -1,5 +1,11 @@
 # ECON 323 Final Project
-Welcome to my final project for ECON 323. My project is a UFC fight summary dashboard that presents fight and fighter statistics for UFC fights between 2010 and 2020. However, due to the fact that the UFC does not provide  statistics for certain fights for a variety of reasons including if it was the fighters first fight in the UFC, only 2700 fights are searchable.
+Welcome to my final project for ECON 323. My project is a UFC fight summary dashboard that presents fight and fighter statistics for UFC fights between 2010 and 2020. However, due to the fact that the UFC does not provide  statistics for certain fights for a variety of reasons including if it was the fighters first fight in the UFC, only 2700 fights are searchable. 
+
+The project is made out of two different .ipynb
+1. cleaning.ipynb
+    This file cleans up the data and preps it for use
+2. visualization.ipynb
+    This is the file for the actual dashboard, this is the only one that needs to be run
 
 
 ## Data Sources
