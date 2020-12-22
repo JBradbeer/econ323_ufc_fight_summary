@@ -6,6 +6,8 @@ Welcome to my final project for ECON 323. My project is a UFC Fight Summary dash
 The data for this project was found on Kaggle, here.
 
 ## How to Use the Fight Summary
+![alt text](https://github.com/JBradbeer/econ323_ufc_fight_summary/blob/main/Readme_images/read_me_0.png?raw=true)
+In order to use the fight summary dashboard run the file, then scroll down to the above widgets. First select a fighter for Fighter 1, this will autopopulate fighter 2 with their list of opponents. Select an opponent, this will populate the date dropdown, note that the date is only relevant if the fighters have fought more than once. Run the try... lines in order to display the dashboard. In order to cahnge fighters just re-select fighters and re-run the try... line.
 
 ## Reading the UI
 **Section 1** General Fight Info
