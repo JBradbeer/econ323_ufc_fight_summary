@@ -35,8 +35,6 @@ In order to use the fight summary dashboard, run the file and scroll down to the
 ![alt text](https://github.com/JBradbeer/econ323_ufc_fight_summary/blob/main/Readme_images/read_me_2.png?raw=true)
 
 1. The fighter's betting odds using the +/- system
-    - \"+" denotes the underdog
-    - \"-" denotes the favourite
 2. The fighter's name, colored red or blue by the corner they were in
 3. The fighter's record *in the UFC*
 4. The winner of the fight
