@@ -3,7 +3,7 @@ Welcome to my final project for ECON 323. My project is a UFC fight summary dash
 
 
 ## Data Sources
-The data for this project was found on Kaggle, here [www.youtube.com].
+The data for this project was found on Kaggle, [here](https://www.kaggle.com/calmdownkarm/ufcdataset).
 
 ## How to Use the Fight Summary
 ![alt text](https://github.com/JBradbeer/econ323_ufc_fight_summary/blob/main/Readme_images/read_me_0.png?raw=true)
