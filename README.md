@@ -61,6 +61,7 @@ The data for this project was created from the merging of four data sources.
 
 ![alt text](https://github.com/JBradbeer/econ323_ufc_fight_summary/blob/main/Readme_images/read_me_5.png?raw=true)
 
-1. Pie chart representing the fighters takedown accuracy
-2. Total takedowns attempted
-3. Total takedowns landed
+1. Pie chart representing the fighters takedown accuracy (takedowns landed / takedowns attempted)
+2. Number of takedowns attempted
+3. Number of takedowns landed
+4. Number of submissions attempted
