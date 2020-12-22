@@ -1,7 +1,6 @@
 # ECON 323 Final Project
 Welcome to my final project for ECON 323. My project is a UFC Fight Summary dashboard that presents fight and fighter statistics for UFC fights between 2010 and 2020. However, due to the fact that the UFC does not provide  statistics for certain fights for a variety of reasons including if it was the fighters first fight in the UFC, only 2700 fights are searchable.
 
-- Jacob Bradbeer
 
 ## Data Sources
 The data for this project was created from the merging of four data sources.
@@ -21,6 +20,7 @@ The data for this project was created from the merging of four data sources.
 3. Fight location & date
 4. Fight Weightclass
 5. Number of rounds in the fight OR if the fight is a title fight (note: all title fights MUST be 5 rounds)
+   
    
 **Section 2** General Fighter Fight Info 
 
@@ -43,6 +43,7 @@ The data for this project was created from the merging of four data sources.
     - "TKO/KO": The loser was either knocked-out (KO) or the referee stopped the fight due to a fighter taking too much damage or not defending themselves intelligenty (TKO)
 8. The method of attack that caused the knockout or submission (note: this section only appears in case of KO, TKO, or SUB)
 
+
 **Section 4** Striking Data for the Fight
 
 ![alt text](https://github.com/JBradbeer/econ323_ufc_fight_summary/blob/main/Readme_images/read_me_4.png?raw=true)
@@ -54,6 +55,7 @@ The data for this project was created from the merging of four data sources.
     - Grey denotes the amount thrown
     - Colored denotes the amount landed
 3. The number of knockdowns scored
+
 
 **Section 5** Grappling Data for the Fight
 
