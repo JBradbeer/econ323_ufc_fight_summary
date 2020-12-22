@@ -11,7 +11,7 @@ The data for this project was created from the merging of four data sources.
 ## Reading the UI
 **Section 1** General Fight Info
 
-![alt text](https://github.com/JBradbeer/econ323_ufc_fight_summary/Readme_images/blob/main/read_me_1.png?raw=true)
+![alt text](https://github.com/JBradbeer/econ323_ufc_fight_summary/blob/main/Readme_images/read_me_1.png?raw=true)
 
 1. The fighter's name
 2. The fighter's ranking, which can be designated by:
