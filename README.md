@@ -55,7 +55,7 @@ In order to use the fight summary dashboard, run the file and scroll down to the
 1. The fighter's record over their last five fights.
     - Green denotes win
     - Red denotes loss
-    - Gold denotes fight (above the line is win, below is loss)\
+    - Gold denotes title fight (above the line is win, below is loss)\
     (Note: Due to the fact that the original dataset had missing fight data, the trailing five fights data only represents the five trailing fights with fight data)\
     (Note: If the fighters have less than 5 fights prior, all prior fights are showed)
 2. General fighter stats
